@@ -1,21 +1,25 @@
-# Dracula for [X](http://link-to-x.com)
+# Dracula for [Cryptowatch](https://cryptowat.ch/)
 
-> A dark theme for [X](http://link-to-x.com).
+> A dark theme for [Cryptowatch](https://cryptowat.ch/).
 
-![Screenshot](./screenshot.png)
+![Screenshot](./cryptowatch-assets.png)
+![Screenshot](./cryptowatch-chart.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/x](https://draculatheme.com/x).
+All instructions can be found at [draculatheme.com/cryptowatch](https://draculatheme.com/cryptowatch).
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/cryptowatch/graphs/contributors).
 
-[![Harrison Heck](https://avatars0.githubusercontent.com/u/1037526?v=3&s=70)](https://github.com/nesl247) | [![Zeno Rocha](https://avatars2.githubusercontent.com/u/398893?v=3&s=70)](https://github.com/zenorocha)
---- | ---
-[Harrison Heck](https://github.com/nesl247) | [Zeno Rocha](https://github.com/zenorocha)
+
+[![Diogo S.](https://avatars2.githubusercontent.com/u/52427475?v=3&s=70)](https://github.com/diogorsergio) |
+:---: |
+[Diogo S.](https://github.com/diogorsergio) |
 
 ## License
 
 [MIT License](./LICENSE)
+
+
