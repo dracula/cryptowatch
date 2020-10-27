@@ -2,8 +2,8 @@
 
 > A dark theme for [Cryptowatch](https://cryptowat.ch/).
 
-![Screenshot](./cryptowatch-assets.png)
-![Screenshot](./cryptowatch-chart.png)
+![Screenshot](./screenshot.png)
+![Screenshot](./screenshot-2.png)
 
 ## Install
 
@@ -21,5 +21,3 @@ This theme is maintained by the following person(s) and a bunch of [awesome cont
 ## License
 
 [MIT License](./LICENSE)
-
-
